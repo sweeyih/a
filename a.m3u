@@ -11,6 +11,8 @@ http://125.227.210.55:8154/VideoInput/play.ts
 http://125.227.210.55:39004/VideoInput/play.ts
 #EXTINF:0 tvg-logo="https://poster.starhubgo.com/Linear_channels2/815_1920x1080_HTV.png",KBS World HD
 http://125.227.210.55:17478/VideoInput/play.ts
+#EXTINF:0 tvg-logo="https://poster.starhubgo.com/Linear_channels2/152_1920x1080_HTV.png",TV5MONDE HD
+http://125.227.210.55:15533/VideoInput/play.ts
 #EXTINF:0 tvg-logo="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png",NHK WORLD - JAPAN HD
 http://125.227.210.55:35802/VideoInput/play.ts
 #EXTINF:0 tvg-logo="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png",DW English HD
