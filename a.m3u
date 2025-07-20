@@ -10,7 +10,7 @@ http://125.227.210.55:8154/VideoInput/play.ts
 #EXTINF:0 tvg-logo="https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png",Cartoon Network
 http://125.227.210.55:8167/VideoInput/play.ts
 #EXTINF:0 tvg-logo="https://poster.starhubgo.com/Linear_channels2/707_1920x1080_HTV.png",CNBC HD
-http://125.227.210.55:8153/VideoInput/play.ts
+http://125.227.210.55:8152/VideoInput/play.ts
 #EXTINF:0 tvg-logo="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png",Bloomberg Television HD
 http://125.227.210.55:8161/VideoInput/play.ts
 #EXTINF:0 tvg-logo="https://poster.starhubgo.com/Linear_channels2/701_1920x1080_HTV.png",BBC World News HD
