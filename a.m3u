@@ -7,6 +7,8 @@ http://125.227.210.55:8153/VideoInput/play.ts
 http://125.227.210.55:8151/VideoInput/play.ts
 #EXTINF:0 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch208_425_305",Discovery Asia
 http://125.227.210.55:8154/VideoInput/play.ts
+#EXTINF:0 tvg-logo="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png",DW English HD
+http://125.227.210.55:42534/VideoInput/play.ts
 #EXTINF:0 tvg-logo="https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png",Cartoon Network
 http://125.227.210.55:8167/VideoInput/play.ts
 #EXTINF:0 tvg-logo="https://poster.starhubgo.com/Linear_channels2/707_1920x1080_HTV.png",CNBC HD
