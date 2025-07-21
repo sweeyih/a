@@ -1,12 +1,10 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dbghelp/StarHub-TV-EPG/refs/heads/main/starhub.xml"
-#EXTINF:0 tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",Channel News Asia HD
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:0 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch208_425_305",Discovery Asia
+http://125.227.210.55:8154/VideoInput/play.ts
 #EXTINF:0 tvg-logo="https://poster.starhubgo.com/Linear_channels2/601_1920x1080_HTV.png",HBO HD
 http://125.227.210.55:8153/VideoInput/play.ts
 #EXTINF:0 tvg-logo="https://poster.starhubgo.com/Linear_channels2/611_1920x1080_HTV.png",Cinemax HD
 http://125.227.210.55:8151/VideoInput/play.ts
-#EXTINF:0 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch208_425_305",Discovery Asia
-http://125.227.210.55:8154/VideoInput/play.ts
 #EXTINF:0 tvg-logo="https://poster.starhubgo.com/Linear_channels2/805_1920x1080_HTV.png",Phoenix Chinese Channel HD
 http://125.227.210.55:39004/VideoInput/play.ts
 #EXTINF:0 tvg-logo="https://poster.starhubgo.com/Linear_channels2/815_1920x1080_HTV.png",KBS World HD
@@ -29,5 +27,7 @@ http://125.227.210.55:8165/VideoInput/play.ts
 http://125.227.210.55:8166/VideoInput/play.ts
 #EXTINF:0 tvg-logo="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png",Arirang TV HD
 http://125.227.210.55:48553/VideoInput/play.ts
+#EXTINF:0 tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",Channel News Asia HD
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:0 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv002_mobile.png",民視
-https://4gtvfreemobile-mozai.4gtv.tv/P7e4gXBbF1nPnnRpgeOcr63_mtVNG3U8TpVSXiIS9II%3d/4gtv-4gtv002-avc1_2000000=3-mp4a_129000_zho=10.m3u8?token=KX2SpWu73k0TZxyjaxqNFg&expires=1753032410&refer=NDMxNjcxNGEtMTQ0OC00OTQxLThkNGEtMGM4OTAwY2MwMzQx&token1=eUe7Kk0Ec6hw9r3QTFtoRA&expires1=1753061210&y=0&vt=&bip=&bnts=
+https://4gtvfreemobile-mozai.4gtv.tv/G6AEOq01mTfsQBZuz2OuYcJwLIGO7_5hK0jvOWz1NWc%3d/4gtv-4gtv002-avc1_2000000=3-mp4a_129000_zho=10.m3u8?token=k5c2cEzxTm7GVK9Vn0P-ag&expires=1753120242&refer=M2JlM2FiYmMtY2Y1MS00MzBiLTgwNzctMWU5OTMzY2MzNDYz&token1=PswMHfroAQfn9QLfZfjbqA&expires1=1753149042&y=0&vt=&bip=&bnts=
