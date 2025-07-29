@@ -1,6 +1,8 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dbghelp/StarHub-TV-EPG/refs/heads/main/starhub.xml"
 #EXTINF:0 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv041_mobile.png",華視
 http://125.227.210.55:8163/VideoInput/play.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/he/f/f6/1920px-CCTV-4_Logo.svg.png",CCTV4 中文国际
+http://125.227.210.55:8175/VideoInput/play.ts
 #EXTINF:0 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch208_425_305",Discovery Asia
 http://125.227.210.55:8154/VideoInput/play.ts
 #EXTINF:0 tvg-logo="https://poster.starhubgo.com/Linear_channels2/601_1920x1080_HTV.png",HBO HD
