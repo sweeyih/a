@@ -11,6 +11,8 @@ http://125.227.210.55:8154/VideoInput/play.ts
 http://125.227.210.55:8153/VideoInput/play.ts
 #EXTINF:0 tvg-logo="https://poster.starhubgo.com/Linear_channels2/611_1920x1080_HTV.png",Cinemax HD
 http://125.227.210.55:8151/VideoInput/play.ts
+#EXTINF:0 tvg-logo="https://poster.starhubgo.com/Linear_channels2/210_1920x1080_HTV.png",SPOTV2
+http://125.227.210.55:8176/VideoInput/play.ts
 #EXTINF:0 tvg-logo="https://poster.starhubgo.com/Linear_channels2/805_1920x1080_HTV.png",Phoenix Chinese Channel HD
 http://125.227.210.55:39004/VideoInput/play.ts
 #EXTINF:0 tvg-logo="https://poster.starhubgo.com/Linear_channels2/815_1920x1080_HTV.png",KBS World HD
