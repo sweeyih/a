@@ -1,8 +1,10 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dbghelp/StarHub-TV-EPG/refs/heads/main/starhub.xml"
 #EXTINF:0 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv041_mobile.png",華視
 http://125.227.210.55:8163/VideoInput/play.ts
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/he/f/f6/1920px-CCTV-4_Logo.svg.png",CCTV4 中文国际
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/he/f/f6/1920px-CCTV-4_Logo.svg.png",CCTV4中文国际
 http://125.227.210.55:8175/VideoInput/play.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png",CCTV-5+体育赛事
+http://125.227.210.55:8177/VideoInput/play.ts
 #EXTINF:0 tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn07_mobile.png",博斯運動一台
 http://125.227.210.55:8173/VideoInput/play.ts
 #EXTINF:0 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch208_425_305",Discovery Asia
