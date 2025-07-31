@@ -43,3 +43,5 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 http://125.227.210.55:8172/VideoInput/play.ts
 #EXTINF:0 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv002_mobile.png",民視
 https://4gtvfreemobile-mozai.4gtv.tv/NjWERkCrsLGCBB9e9_qcurDfXDiQUFe8T1ACO32hcZI%3d/4gtv-4gtv002-avc1_2000000=3-mp4a_129000_zho=10.m3u8?token=h0fwSkUb25yrHK_Zjn1_og&expires=1753983811&refer=MDdlMDkyMjctZjM3Yi00NmYwLWI5NjEtZDYzZGM2YmM3Y2Ix&token1=uLA_pATIOHbn8YmFby3fAA&expires1=1754012611&y=0&vt=&bip=&bnts=
+#EXTINF:0 tvg-logo="https://poster.starhubgo.com/Linear_channels2/601_1920x1080_HTV.png",HBO HD
+http://125.227.210.55:8153/VideoInput/play.ts
