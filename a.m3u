@@ -5,6 +5,8 @@ http://125.227.210.55:8153/VideoInput/play.ts
 http://125.227.210.55:8154/VideoInput/play.ts
 #EXTINF:0 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv041_mobile.png",華視
 http://125.227.210.55:8163/VideoInput/play.ts
+#EXTINF:0 tvg-logo="https://poster.starhubgo.com/Linear_channels2/805_1920x1080_HTV.png",Phoenix Chinese Channel HD
+http://125.227.210.55:39004/VideoInput/play.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png",CCTV5+
 http://125.227.210.55:8177/VideoInput/play.ts
 #EXTINF:0 tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn07_mobile.png",博斯運動一台
@@ -13,8 +15,6 @@ http://125.227.210.55:8173/VideoInput/play.ts
 http://125.227.210.55:8175/VideoInput/play.ts
 #EXTINF:0 tvg-logo="https://poster.starhubgo.com/Linear_channels2/210_1920x1080_HTV.png",SPOTV2
 http://125.227.210.55:8176/VideoInput/play.ts
-#EXTINF:0 tvg-logo="https://poster.starhubgo.com/Linear_channels2/805_1920x1080_HTV.png",Phoenix Chinese Channel HD
-http://125.227.210.55:39004/VideoInput/play.ts
 #EXTINF:0 tvg-logo="https://poster.starhubgo.com/Linear_channels2/815_1920x1080_HTV.png",KBS World HD
 http://125.227.210.55:17478/VideoInput/play.ts
 #EXTINF:0 tvg-logo="https://poster.starhubgo.com/Linear_channels2/152_1920x1080_HTV.png",TV5MONDE HD
