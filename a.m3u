@@ -1,14 +1,14 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dbghelp/StarHub-TV-EPG/refs/heads/main/starhub.xml"
 #EXTINF:0 tvg-id="369313" tvg-logo="https://poster.starhubgo.com/Linear_channels2/601_1920x1080_HTV.png",HBO HD
 http://125.227.210.55:8153/VideoInput/play.ts
+#EXTINF:0 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch208_425_305",Discovery Asia
+http://125.227.210.55:8154/VideoInput/play.ts
 #EXTINF:0 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv041_mobile.png",華視
 http://125.227.210.55:8163/VideoInput/play.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png",CCTV5+
 http://125.227.210.55:8177/VideoInput/play.ts
 #EXTINF:0 tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn07_mobile.png",博斯運動一台
 http://125.227.210.55:8173/VideoInput/play.ts
-#EXTINF:0 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch208_425_305",Discovery Asia
-http://125.227.210.55:8154/VideoInput/play.ts
 #EXTINF:0 tvg-logo="https://poster.starhubgo.com/Linear_channels2/801_1920x1080_HTV.png",CCTV-4
 http://125.227.210.55:8175/VideoInput/play.ts
 #EXTINF:0 tvg-logo="https://poster.starhubgo.com/Linear_channels2/210_1920x1080_HTV.png",SPOTV2
