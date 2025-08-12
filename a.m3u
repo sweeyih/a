@@ -37,11 +37,5 @@ http://125.227.210.55:8165/VideoInput/play.ts
 http://125.227.210.55:8166/VideoInput/play.ts
 #EXTINF:0 tvg-logo="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png",Arirang TV HD
 http://125.227.210.55:48553/VideoInput/play.ts
-#EXTINF:0 tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",Channel News Asia HD
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/TVRI_Gorontalo.png",TVRI Gorontalo
-http://125.227.210.55:8172/VideoInput/play.ts
-#EXTINF:0 tvg-logo="https://poster.starhubgo.com/Linear_channels2/611_1920x1080_HTV.png",Cinemax HD
-http://125.227.210.55:8151/VideoInput/play.ts
 #EXTINF:0 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv002_mobile.png",民視
 https://4gtvfreemobile-mozai.4gtv.tv/DzP8GTQRJc2B-DE-f8cmAqzbkD0-RqBO4NTx-MiJfdw%3d/4gtv-4gtv002-avc1_2000000=3-mp4a_129000_zho=10.m3u8?token=PQmtaA50xggrAwSO2vrryg&expires=1754232874&refer=ODM3YzQ2Y2EtNGQzMi00ZDJhLWIyZWQtMzQ2MTczZWVkMGM2&token1=iOtI96u6iPuiYyp2MxQ4ZA&expires1=1754261674&y=0&vt=&bip=&bnts=
