@@ -5,6 +5,8 @@ http://125.227.210.55:8153/VideoInput/play.ts
 http://125.227.210.55:8153/VideoInput/play.ts
 #EXTINF:0 tvg-id="369727" tvg-logo="https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae92/67ad5259c6e804a40b4bb0ed_logo_act_web.png",ROCK Action
 http://s1.an94tv.cfd/aktv/rockaction/AKTV.m3u8
+#EXTINF:0 tvg-id="368348" tvg-logo="https://modapp-chtmod.cdn.hinet.net/MODAPP/getImages.php?imageId=MOD_LIVE_0000000058.png",美亞電影台
+http://s1.an94tv.cfd/aktv/hk/AKTV.m3u8
 #EXTINF:0 tvg-logo="https://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png",PopC
 http://s1.an94tv.cfd/aktv/popc/AKTV.m3u8
 #EXTINF:0 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv041_mobile.png",華視
