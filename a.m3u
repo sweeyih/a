@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dbghelp/StarHub-TV-EPG/refs/heads/main/starhub.xml"
+#EXTINF:0 tvg-logo="https://poster.starhubgo.com/Linear_channels2/868_1920x1080_HTV.png",天映频道
+https://stream1.freetv.fun/967dae7d892f98ab36ed663fb054aeead8a20ebcefedbbd08448037e45c7e9af.ctv
 #EXTINF:0 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv002_mobile.png",民視
 https://stream1.freetv.fun/9aafe9046f5dfb8b34f55a8fd13918bf16fa679b9bcf8860d98f4e6f3391563a.ctv
 #EXTINF:0 tvg-id="369284" tvg-logo="https://epg.pw/media/images/epg/2024/06/11/20240611152232341127_12.png",緯來日本
