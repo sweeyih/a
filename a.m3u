@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dbghelp/StarHub-TV-EPG/refs/heads/main/starhub.xml"
+#EXTINF:0 tvg-id="605" tvg-logo="https://poster.starhubgo.com/Linear_channels2/605_1920x1080_HTV.png",HBO Hits
+https://stream1.freetv.fun/9ddc91658b86bbd6008fc3d8c58edb84b98918d997015a4808ee5a1262750b93.ctv
 #EXTINF:0 tvg-id="111" tvg-logo="https://poster.starhubgo.com/Linear_channels2/111_1920x1080_HTV.png",HUB都会
 https://stream1.freetv.fun/9d7fefb4d4cd8468d179c98077d87d6001de8bb582b08a49ad3cb3780887bb70.ctv
 #EXTINF:0 tvg-id="514" tvg-logo="https://poster.starhubgo.com/Linear_channels2/514_1920x1080_HTV.png",Lifetime 
