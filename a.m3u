@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dbghelp/StarHub-TV-EPG/refs/heads/main/starhub.xml"
+#EXTINF:0 tvg-id="369284" tvg-logo="https://epg.pw/media/images/epg/2024/06/11/20240611152232341127_12.png",緯來日本
+https://stream1.freetv.fun/b27ba5fa086ecafc9ecbf28f853ef1ecbc07e2f9ae7cb7e57b56742b083b15b8.ctv
 #EXTINF:0 tvg-id="408106" tvg-logo="https://epg.pw/media/images/epg/2025/01/01/20250101050108579661_22.png",亚洲旅游台
 https://stream1.freetv.fun/ya-zhou-lu-you-6.ctv
 #EXTINF:0 tvg-id="605" tvg-logo="https://poster.starhubgo.com/Linear_channels2/605_1920x1080_HTV.png",HBO Hits
