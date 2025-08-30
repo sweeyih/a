@@ -5,10 +5,6 @@ https://stream1.freetv.fun/967dae7d892f98ab36ed663fb054aeead8a20ebcefedbbd084480
 https://stream1.freetv.fun/9ddc91658b86bbd6008fc3d8c58edb84b98918d997015a4808ee5a1262750b93.ctv
 #EXTINF:0 tvg-id="514" tvg-logo="https://poster.starhubgo.com/Linear_channels2/514_1920x1080_HTV.png",Lifetime 
 https://stream1.freetv.fun/3e837f39640cbd834b70c48fe6462f51cf1fd6131d89e49722774b3254344f00.ctv
-#EXTINF:0 tvg-id="601" tvg-logo="https://poster.starhubgo.com/Linear_channels2/601_1920x1080_HTV.png",HBO HD
-https://stream1.freetv.fun/3e160a6ee4babc54870ed24801e46ab11f265df4b85736c7d78f484df399aa8c.ctv
-#EXTINF:0 tvg-id="369313" tvg-logo="https://poster.starhubgo.com/Linear_channels2/601_1920x1080_HTV.png",HBO HD
-http://125.227.210.55:8153/VideoInput/play.ts
 #EXTINF:0 tvg-id="369727" tvg-logo="https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae92/67ad5259c6e804a40b4bb0ed_logo_act_web.png",ROCK Action
 http://s1.an94tv.cfd/aktv/rockaction/AKTV.m3u8
 #EXTINF:0 tvg-id="368348" tvg-logo="https://modapp-chtmod.cdn.hinet.net/MODAPP/getImages.php?imageId=MOD_LIVE_0000000058.png",美亞電影台
@@ -59,3 +55,7 @@ https://stream1.freetv.fun/b27ba5fa086ecafc9ecbf28f853ef1ecbc07e2f9ae7cb7e57b567
 https://stream1.freetv.fun/ya-zhou-lu-you-6.ctv
 #EXTINF:0 tvg-id="111" tvg-logo="https://poster.starhubgo.com/Linear_channels2/111_1920x1080_HTV.png",HUB都会
 https://stream1.freetv.fun/9d7fefb4d4cd8468d179c98077d87d6001de8bb582b08a49ad3cb3780887bb70.ctv
+#EXTINF:0 tvg-id="601" tvg-logo="https://poster.starhubgo.com/Linear_channels2/601_1920x1080_HTV.png",HBO HD
+https://stream1.freetv.fun/3e160a6ee4babc54870ed24801e46ab11f265df4b85736c7d78f484df399aa8c.ctv
+#EXTINF:0 tvg-id="369313" tvg-logo="https://poster.starhubgo.com/Linear_channels2/601_1920x1080_HTV.png",HBO HD
+http://125.227.210.55:8153/VideoInput/play.ts
