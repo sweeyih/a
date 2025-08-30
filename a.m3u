@@ -5,8 +5,6 @@ https://stream1.freetv.fun/967dae7d892f98ab36ed663fb054aeead8a20ebcefedbbd084480
 https://stream1.freetv.fun/9ddc91658b86bbd6008fc3d8c58edb84b98918d997015a4808ee5a1262750b93.ctv
 #EXTINF:0 tvg-id="514" tvg-logo="https://poster.starhubgo.com/Linear_channels2/514_1920x1080_HTV.png",Lifetime 
 https://stream1.freetv.fun/3e837f39640cbd834b70c48fe6462f51cf1fd6131d89e49722774b3254344f00.ctv
-#EXTINF:0 tvg-logo="https://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png",PopC
-http://s1.an94tv.cfd/aktv/popc/AKTV.m3u8
 #EXTINF:0 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv041_mobile.png",華視
 http://125.227.210.55:8163/VideoInput/play.ts
 #EXTINF:0 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch208_425_305",Discovery Asia
@@ -59,3 +57,5 @@ http://s1.an94tv.cfd/aktv/rockaction/AKTV.m3u8
 http://s1.an94tv.cfd/aktv/hk/AKTV.m3u8
 #EXTINF:0 tvg-id="271945" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png",翡翠台
 http://s1.an94tv.cfd/aktv/CH-0/AKTV.m3u8
+#EXTINF:0 tvg-logo="https://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png",PopC
+http://s1.an94tv.cfd/aktv/popc/AKTV.m3u8
