@@ -1,4 +1,8 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dbghelp/StarHub-TV-EPG/refs/heads/main/starhub.xml"
+#EXTINF:0 tvg-id="838" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png",TVB Jade HD
+https://mytv.cdn.loc.cc/o12.php?id=fct
+#EXTINF:0 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv002_mobile.png",民視
+https://4gtvfreemobile-mozai.4gtv.tv/K9niN5iiSjGP1d9CNDAgtM_oRSDHwbU2W-L3weGWk78%3d/4gtv-4gtv002-avc1_2000000=3-mp4a_129000_zho=10.m3u8?token=sI1uaOUOa1autswkeB_1CA&expires=1761496251&refer=NzgzY2Y2YWQtN2JiYS00MjJmLWI2OWUtZWU1NTI0N2IxOTcy&token1=27vaONkOyJr161a_LtSF8w&expires1=1761525051&y=0&vt=&bip=&bnts=
 #EXTINF:0 tvg-id="1298" tvg-logo="https://poster.starhubgo.com/Linear_channels2/868_1920x1080_HTV.png",天映频道
 https://stream1.freetv.fun/967dae7d892f98ab36ed663fb054aeead8a20ebcefedbbd08448037e45c7e9af.ctv
 #EXTINF:0 tvg-id="605" tvg-logo="https://poster.starhubgo.com/Linear_channels2/605_1920x1080_HTV.png",HBO Hits
@@ -41,8 +45,6 @@ http://125.227.210.55:8165/VideoInput/play.ts
 http://125.227.210.55:8166/VideoInput/play.ts
 #EXTINF:0 tvg-logo="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png",Arirang TV HD
 http://125.227.210.55:48553/VideoInput/play.ts
-#EXTINF:0 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv002_mobile.png",民視
-https://4gtvfreemobile-mozai.4gtv.tv/mhf345wQSpSDYVEtRyuWcuqWr8pIa7KXxVALrtTF7l0%3d/4gtv-4gtv002-avc1_2000000=3-mp4a_129000_zho=10.m3u8?token=hMLQF7H6_Z5d4koHoNpLXw&expires=1760892915&refer=N2ZjYjI4OTAtOGJlNS00ZDJiLThlMDQtZDA2MTYzYTU4ZDIx&token1=UJAxH0HkbPCIQSo5-yeVCw&expires1=1760921715&y=0&vt=&bip=&bnts=
 #EXTINF:0 tvg-id="369284" tvg-logo="https://epg.pw/media/images/epg/2024/06/11/20240611152232341127_12.png",緯來日本
 https://stream1.freetv.fun/b27ba5fa086ecafc9ecbf28f853ef1ecbc07e2f9ae7cb7e57b56742b083b15b8.ctv
 #EXTINF:0 tvg-id="408106" tvg-logo="https://epg.pw/media/images/epg/2025/01/01/20250101050108579661_22.png",亚洲旅游台
